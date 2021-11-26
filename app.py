@@ -2,7 +2,7 @@
 
 from aws_cdk import core
 
-from cdk_eks.cdk_eks_stack import CdkEksStack
+from eks.cdk_eks_stack import CdkEksStack
 
 
 app = core.App()
